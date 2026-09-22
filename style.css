@@ -452,7 +452,6 @@ width: 240px;
 height: 180px;
 object-fit: cover;
 border-radius: 1.5rem;
-border: 2px solid var(--main-color);
 margin-top: 1rem;
 flex-shrink: 0;
 }
